@@ -1,0 +1,14 @@
+
+{
+	"name": "com.had.unity.eventdispatcher",
+	"displayName": "HAD EventDispatccher",
+	"version": "1.0.1",
+	"author": "HAD",
+	"description": "",
+	"dependencies": {
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/aduonghad/com.had.unity.eventdispatcher.git"
+	}
+}
